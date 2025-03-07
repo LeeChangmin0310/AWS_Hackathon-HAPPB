@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"/>
+    <item
+        android:id="@+id/bottom_message"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Search"/>
+    <item
+        android:id="@+id/bottom_polar_bear"
+        android:icon="@drawable/ic_only_face_logo"
+        android:title="PolarBear"/>
+
+    <item
+        android:id="@+id/bottom_info"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="Info"/>
+
+    <item
+        android:id="@+id/bottom_profile"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="Profile"/>
+
+</menu>

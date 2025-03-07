@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-kim-dev-13246-authRole",
+      "UnauthRoleArn": "arn:aws:iam::507497390148:role/amplify-kim-dev-13246-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::507497390148:role/amplify-kim-dev-13246-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-kim-dev-13246-deployment",
+      "UnauthRoleName": "amplify-kim-dev-13246-unauthRole",
+      "StackName": "amplify-kim-dev-13246",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:507497390148:stack/amplify-kim-dev-13246/e701d041-219a-11ee-9efc-0693c5bccf8a",
+      "AmplifyAppId": "d34iesaltsxmb8"
+    },
+    "categories": {
+      "api": {
+        "kim": {}
+      },
+      "auth": {
+        "kim": {}
+      }
+    }
+  }
+}

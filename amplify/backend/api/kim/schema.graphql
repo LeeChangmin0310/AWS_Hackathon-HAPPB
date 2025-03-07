@@ -1,0 +1,17 @@
+type KKimage @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  user: String
+  imageURL: String
+  text: String
+}
+
+type Information @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  name: String
+  age: Int
+  height: Int
+  weight: Int
+  number: Int
+  user: String
+}
+ 

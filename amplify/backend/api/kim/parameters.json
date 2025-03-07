@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "kim",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2023-07-14T10:21:31.579Z"
+}
